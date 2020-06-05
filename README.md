@@ -1,1 +1,2 @@
 # google-homepage
+In this project, I recreated the Google Homepage with VSCode and Live Server Extenstion. I linked most of the links to the correct google url however, I did not link the search bar or buttons.  The Google logo is from the Odin Project Project tips.
